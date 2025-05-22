@@ -21,7 +21,7 @@ gem 'httparty'
 
 gem 'sidekiq'
 
-gem 'sidekiq-scheduler', '~> 5.0'
+gem 'sidekiq-scheduler', '~> 6.0'
 
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
